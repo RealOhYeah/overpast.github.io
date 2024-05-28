@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8eff027-2b7d-4d12-a684-3031293a841e" name="Changes" comment="+1">
+    <list default="true" id="c8eff027-2b7d-4d12-a684-3031293a841e" name="Changes" comment="完善">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/right-sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +71,9 @@
       <updated>1696641079053</updated>
       <workItem from="1716614479193" duration="622000" />
       <workItem from="1716652775045" duration="4856000" />
-      <workItem from="1716685376889" duration="1220000" />
+      <workItem from="1716685376889" duration="6439000" />
+      <workItem from="1716777426738" duration="8000" />
+      <workItem from="1716888585066" duration="457000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -125,7 +131,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716658346665</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="+1">
+      <option name="closed" value="true" />
+      <created>1716695852021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716695852021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+1+1">
+      <option name="closed" value="true" />
+      <created>1716706389964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716706389964</updated>
+    </task>
+    <task id="LOCAL-00010" summary="访问部署的网站时触发弹窗彩蛋">
+      <option name="closed" value="true" />
+      <created>1716706789423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716706789423</updated>
+    </task>
+    <task id="LOCAL-00011" summary="完善">
+      <option name="closed" value="true" />
+      <created>1716707171393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716707171393</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,8 +184,10 @@
     <MESSAGE value="初始化" />
     <MESSAGE value="最终版" />
     <MESSAGE value="+1+1+1" />
-    <MESSAGE value="+1+1" />
     <MESSAGE value="+1" />
-    <option name="LAST_COMMIT_MESSAGE" value="+1" />
+    <MESSAGE value="+1+1" />
+    <MESSAGE value="访问部署的网站时触发弹窗彩蛋" />
+    <MESSAGE value="完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善" />
   </component>
 </project>
